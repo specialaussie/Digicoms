@@ -118,3 +118,10 @@ footer {
     font-size: 0.9em;
     color: #000000;
 }
+
+.custom-br {
+    display: block;
+    content: "";
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
