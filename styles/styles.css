@@ -80,13 +80,12 @@ body {
 }
 
 .corner-image {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    width: 500px;
+    float: right;
+    width: 350px;
     height: auto;
-    z-index: 10;
+    margin: 20px 0 20px 20px;
     border-radius: 8px;
+    shape-outside: inset(0);
 }
 
 header {
